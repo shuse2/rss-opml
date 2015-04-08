@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+<head>
+<title>Vienna Subscriptions</title>
+<dateCreated>2015-04-08 16:55:40 +0900</dateCreated>
+</head>
+<body>
+<outline text="Analytics">
+<outline htmlUrl="http://www.liesdamnedlies.com/" xmlUrl="http://www.liesdamnedlies.com/atom.xml" type="rss" description="The unpredictable world of online marketing &amp; web analytics" text="Lies, Damned Lies..."/>
+<outline htmlUrl="http://www.kaushik.net/avinash" xmlUrl="http://feeds.feedburner.com/OccamsRazorByAvinash" type="rss" description="Digital Marketing and Analytics  Blog" text="Occam&apos;s Razor by Avinash Kaushik"/>
+<outline htmlUrl="http://webanalytics.wordpress.com" xmlUrl="https://webanalytics.wordpress.com/feed/" type="rss" description="A companion in your Web Analytics journey from Brussels, Belgium, Capital of Europe" text="OX2 Web Analytics Blog"/>
+<outline htmlUrl="http://www.roirevolution.com/blog/" xmlUrl="http://www.roirevolution.com/blog/atom.xml" type="rss" description="A blog featuring valuable insight and practical tips on how to use online advertising, Google Website Optimizer and Google Analytics to get the most out of your online marketing efforts." text="The ROI Revolution Blog"/>
+<outline htmlUrl="http://blog.webanalyticsdemystified.com/weblog" xmlUrl="http://www.webanalyticsdemystified.com/weblog/atom.asp" type="rss" description="" text="Web Analytics Demystified"/>
+<outline htmlUrl="http://webanalysis.blogspot.com/" xmlUrl="http://webanalysis.blogspot.com/feeds/posts/default" type="rss" description="" text="Web Analytics, Behavioral Targeting and Optimization by Anil Batra"/>
+</outline>
+<outline text="E-Commerce">
+<outline htmlUrl="http://www.ecommercetimes.com" xmlUrl="http://www.ecommercetimes.com/perl/syndication/rssfull.pl" type="rss" description="E-Commerce Times: the E-Business and Technology Super Site" text="E-Commerce Times"/>
+<outline htmlUrl="http://ebaystrategies.blogs.com/ebay_strategies/" xmlUrl="http://ebaystrategies.blogs.com/ebay_strategies/atom.xml" type="rss" description="Scot Wingo&apos;s eBay Blog
+
+In addition to discussing eBay strategies, Scot will provide his take on the latest eBay related news." text="eBay Strategies"/>
+<outline htmlUrl="http://www.getelastic.com" xmlUrl="http://feeds.feedburner.com/getelastic" type="rss" description="Ecommerce articles on internet retail, online marketing, social media, SEO, and all things ecommerce from Elastic Path Software; Featuring the Get Elastic ecommerce podcast - conversations with industry insiders." text="Get Elastic Ecommerce Blog"/>
+<outline htmlUrl="http://www.practicalecommerce.com" xmlUrl="http://www.practicalecommerce.com/feed" type="rss" description="Insights for Online Merchants" text="Practical eCommerce"/>
+<outline htmlUrl="http://www.ecommerce-guide.com" xmlUrl="http://www.ecommerce-guide.com/icom_includes/feeds/ecomm/xml_front-10.xml" type="rss" description="Top stories from ECommerce-Guide.com" text="www.ECommerce-Guide.com"/>
+</outline>
+<outline text="General">
+<outline htmlUrl="http://www.apple.com/hotnews/" xmlUrl="http://images.apple.com/main/rss/hotnews/hotnews.rss" type="rss" description="Hot News provided by Apple." text="Apple Hot News"/>
+<outline htmlUrl="http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" type="rss" description="The latest stories from the World section of the BBC News web site." text="BBC World News"/>
+<outline htmlUrl="http://computerweekly.techtarget.com/rss/All-Computer-Weekly-content.xml" xmlUrl="http://www.computerweekly.com/rss/All-Computer-Weekly-content.xml" type="rss" description="
+Computer Weekly provides all the latest news, analysis and opinion of the stories that matter to UK IT leaders and IT professionals.
+" text="ComputerWeekly: All Computer Weekly Content"/>
+</outline>
+<outline htmlUrl="http://githunt.io" xmlUrl="http://www.githunt.io/feed" type="rss" description="" text="Git Hunt"/>
+<outline text="global.must">
+</outline>
+<outline text="IT-jp">
+<outline htmlUrl="http://www.infoq.com/jp/" xmlUrl="http://www.infoq.com/jp/feed?token=cPkhJlcMfGQNecJlb0fyxkONtMuFCjEe" type="rss" description="InfoQ フィード" text="InfoQ"/>
+<outline htmlUrl="http://itpro.nikkeibp.co.jp/" xmlUrl="file:///Users/a13366/Downloads/ITpro.rdf" type="rss" description="日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供" text="ITpro総合"/>
+<outline htmlUrl="http://jp.techcrunch.com" xmlUrl="http://jp.techcrunch.com/feed/" type="rss" description="The greatest WordPress.com site in all the land!" text="TechCrunch Japan"/>
+<outline htmlUrl="http://www.atmarkit.co.jp/" xmlUrl="http://rss.rssad.jp/rss/itmatmarkit/rss.xml" type="rss" description="＠IT 全フォーラム の最新記事一覧です。" text="＠IT 全フォーラム 最新記事一覧"/>
+</outline>
+<outline text="Startups">
+<outline htmlUrl="http://500hats.com" xmlUrl="http://500hats.com/feed" type="rss" description="" text="500hats.com/feed"/>
+<outline htmlUrl="http://www.venturesquare.net" xmlUrl="http://www.venturesquare.net/rss" type="rss" description="VentureSquare | 스타트업의 모든 것 | VentureSquare is an online media outlet which specializes new and unique tech-based startups and ventures created by entrepreneurs and budding young business persons" text="@VentureSquare"/>
+<outline htmlUrl="http://abovethecrowd.com" xmlUrl="http://abovethecrowd.com/feed/" type="rss" description="By Bill Gurley" text="Above the Crowd"/>
+<outline htmlUrl="http://allthingsd.com" xmlUrl="http://allthingsd.com/feed/" type="rss" description="" text="allthingsd.com/feed/"/>
+<outline htmlUrl="http://asbdcbizblog.blogspot.com/" xmlUrl="http://asbdcbizblog.blogspot.com/feeds/posts/default" type="rss" description="" text="America&apos;s SBDC Biz Blog"/>
+<outline htmlUrl="https://anydex.wordpress.com" xmlUrl="https://anydex.wordpress.com/feed/" type="rss" description="Pete Cooper&apos;s Personal Blog" text="AnyDex"/>
+<outline htmlUrl="http://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" type="rss" description="The Art of Technology" text="Ars Technica"/>
+<outline htmlUrl="http://practicetrumpstheory.com" xmlUrl="http://feeds.feedburner.com/AshMaurya" type="rss" description="" text="Ash Maurya"/>
+<outline htmlUrl="http://blog.asmartbear.com" xmlUrl="http://blog.asmartbear.com/feed" type="rss" description="Startups + Marketing + Geekery" text="blog.asmartbear.com/feed"/>
+<outline htmlUrl="http://www.brazencareerist.com/blog" xmlUrl="http://www.brazencareerist.com/blog/feed/" type="rss" description="Personal development meets professional aspiration" text="blog.brazencareerist.com/feed/"/>
+<outline htmlUrl="http://blogmaverick.com" xmlUrl="http://blogmaverick.com/feed/" type="rss" description="the mark cuban weblog" text="blogmaverick.com/feed/"/>
+<outline htmlUrl="http://boss.blogs.nytimes.com" xmlUrl="http://boss.blogs.nytimes.com/feed/" type="rss" description="The Art of Running a Small Business" text="boss.blogs.nytimes.com/feed/"/>
+<outline htmlUrl="http://www.bothsidesofthetable.com" xmlUrl="http://www.bothsidesofthetable.com/feed/" type="rss" description="" text="Both Sides of the Table"/>
+<outline htmlUrl="http://www.brazencareerist.com/blog" xmlUrl="http://www.brazencareerist.com/blog/category/entrepreneurship-2/feed/" type="rss" description="Personal development meets professional aspiration" text="Brazen Life » Entrepreneurship"/>
+<outline htmlUrl="http://www.business-opportunities.biz" xmlUrl="http://www.business-opportunities.biz/feed/" type="rss" description="The original blog about business opportunities and business ideas for small business entrepreneurs" text="Business Opportunities Weblog"/>
+<outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/bizstartup.xml" type="rss" description="Latest news releases for Business: Startups from PRWeb" text="Business: Startups"/>
+<outline htmlUrl="http://cdixon.org" xmlUrl="http://cdixon.org/feed/" type="rss" description="" text="cdixon.org/feed/"/>
+<outline htmlUrl="http://dannybrown.me" xmlUrl="http://feeds.feedburner.com/DannyBrownBlog" type="rss" description="there&apos;s more to life than social media" text="Danny Brown - Social Media Marketin..."/>
+<outline htmlUrl="http://www.drjeffcornwall.com" xmlUrl="http://www.drjeffcornwall.com/feed/" type="rss" description="The Entrepreneurial Mind is the blog of Belmont University instructor Dr. Jeff Cornwall." text="Dr Jeff Cornwall"/>
+<outline htmlUrl="http://www.dutiee.com" xmlUrl="http://www.dutiee.com/feed" type="rss" description="Social startups, fundraising, social media and other world changing stories that matter." text="Dutiee"/>
+<outline htmlUrl="http://ecorner.stanford.edu" xmlUrl="http://ecorner.stanford.edu/PicLens.xml" type="rss" description="ECorner Multimedia Materials" text="ECorner Multimedia Materials"/>
+<outline htmlUrl="http://www.engadget.com" xmlUrl="http://www.engadget.com/rss.xml" type="rss" description="Engadget" text="Engadget"/>
+<outline htmlUrl="http://www.entrepreneur.com/topic/starting-a-business" xmlUrl="http://feeds.feedburner.com/entrepreneur/startingabusiness.rss" type="rss" description="Do you want to start your own business? With Entrepreneur.com&apos;s feed you will get the latest news and articles on how to start your own business! " text="Entrepreneur: Startup"/>
+<outline htmlUrl="http://www.escapefromcubiclenation.com" xmlUrl="http://www.escapefromcubiclenation.com/feed/" type="rss" description="" text="Escape From Cubicle Nation"/>
+<outline htmlUrl="http://ttunguz.github.io" xmlUrl="http://tomtunguz.com/feed.xml" type="rss" description="" text="ex post facto"/>
+<outline htmlUrl="http://www.fastcompany.com//www.fastcompany.com" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" type="rss" description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business." text="Fast Company"/>
+<outline htmlUrl="http://www.copyblogger.com" xmlUrl="http://feeds.copyblogger.com/copyblogger" type="rss" description="Solutions for Smarter Content Marketing" text="feeds.copyblogger.com/copyblogger"/>
+<outline htmlUrl="http://dannybrown.me" xmlUrl="http://feeds.feedburner.com/DannyBrownBlog" type="rss" description="there&apos;s more to life than social media" text="feeds.feedblitz.com/dannybrown"/>
+<outline htmlUrl="http://www.bhorowitz.com/" xmlUrl="http://feeds.feedburner.com/bhorowitz" type="rss" description="Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley-based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. Follow Ben on Twitter @bhorowitz." text="feeds.feedburner.com/bhorowitz"/>
+<outline htmlUrl="http://www.bothsidesofthetable.com" xmlUrl="http://feeds.feedburner.com/BothSidesOfTheTable" type="rss" description="" text="feeds.feedburner.com/BothSidesOfTheTable"/>
+<outline htmlUrl="http://www.entrepreneur.com" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" type="rss" description="The latest stories from Entrepreneur." text="feeds.feedburner.com/entrepreneur/latest"/>
+<outline htmlUrl="http://www.forentrepreneurs.com/" xmlUrl="http://feeds.feedburner.com/forentrepreneurs/" type="rss" description="Expertise, Wisdom and Resources for Startups and Entrepreneurs 
+ 
+By David Skok, a serial entrepreneur turned VC" text="feeds.feedburner.com/forentrepreneurs/"/>
+<outline htmlUrl="http://guykawasaki.com" xmlUrl="http://feeds.feedburner.com/guykawasaki/Gypm" type="rss" description="The Art of Changing Hearts, Minds, and Actions" text="feeds.feedburner.com/guykawasaki/Gypm"/>
+<outline htmlUrl="http://mixergy.com" xmlUrl="http://feeds.feedburner.com/Mixergy-blog" type="rss" description="Business tips for startups by proven entrepreneurs" text="feeds.feedburner.com/Mixergy-blog"/>
+<outline htmlUrl="http://www.noobpreneur.com" xmlUrl="http://feeds.feedburner.com/noobpreneur" type="rss" description="Resources for budding entrepreneurs and small business owners" text="feeds.feedburner.com/noobpreneur"/>
+<outline htmlUrl="http://okdork.com" xmlUrl="http://feeds.feedburner.com/okdork/tZRC" type="rss" description="Noah Kagan&apos;s Blog About Marketing and More" text="feeds.feedburner.com/okdork/tZRC"/>
+<outline htmlUrl="http://www.quicksprout.com" xmlUrl="http://feeds.feedburner.com/Quicksprout" type="rss" description="I&apos;m Kind of a Big Deal" text="feeds.feedburner.com/Quicksprout"/>
+<outline htmlUrl="http://www.elasticmind.ca/innerpreneur" xmlUrl="http://feeds.feedburner.com/RiseOfTheInnerpreneur" type="rss" description="cultivating the business within by Tara Joyce" text="feeds.feedburner.com/RiseOfTheInnerpreneur"/>
+<outline htmlUrl="http://www.rocketwatcher.com" xmlUrl="http://feeds.feedburner.com/rocketwatcher" type="rss" description="Startup Marketing Blog" text="feeds.feedburner.com/rocketwatcher"/>
+<outline htmlUrl="http://www.smallbizlabs.com/" xmlUrl="http://feeds.feedburner.com/SmallBizLabs" type="rss" description="Tracking and Forecasting the Trends and Shifts Impacting the Future of Small Business" text="feeds.feedburner.com/SmallBizLabs"/>
+<outline htmlUrl="http://www.sramanamitra.com" xmlUrl="http://feeds.feedburner.com/sramanamitra" type="rss" description="Sramana Mitra\&apos;s Strategy Blog written from the cultural context of Silicon Valley and Entrepreneurship." text="feeds.feedburner.com/sramanamitra"/>
+<outline htmlUrl="http://www.startuplessonslearned.com/" xmlUrl="http://feeds.feedburner.com/startup/lessons/learned" type="rss" description="by Eric Ries" text="feeds.feedburner.com/startup/lessons/learned"/>
+<outline htmlUrl="http://www.startupcompanylawyer.com" xmlUrl="http://feeds.feedburner.com/startupcompanylawyer" type="rss" description="Venture capital, seed financings, convertible note bridge debt, M&amp;A, option vesting and other matters explained for founders and entrepreneurs" text="feeds.feedburner.com/startupcompanylawyer"/>
+<outline htmlUrl="http://startupmeme.com" xmlUrl="http://feeds.feedburner.com/StartupMeme" type="rss" description="" text="feeds.feedburner.com/StartupMeme"/>
+<outline htmlUrl="http://tech.co" xmlUrl="http://feeds.feedburner.com/techcocktail" type="rss" description="The latest cocktail of emerging technology news, people, startups, products, and innovations for the true tech enthusiast." text="feeds.feedburner.com/techcocktail"/>
+<outline htmlUrl="http://blog.ted.com" xmlUrl="http://feeds.feedburner.com/tedblog" type="rss" description="The TED Blog shares interesting news about TED, TED Talks video, the TED Prize and more." text="feeds.feedburner.com/tedblog"/>
+<outline htmlUrl="http://epiclaunch.com" xmlUrl="http://feeds2.feedburner.com/epiclaunch" type="rss" description="Kick Off Your Business" text="feeds2.feedburner.com/epiclaunch"/>
+<outline htmlUrl="http://www.escapefromcubiclenation.com" xmlUrl="http://feeds2.feedburner.com/EscapeFromCubicleNation" type="rss" description="" text="feeds2.feedburner.com/EscapeFromCubicleNation"/>
+<outline htmlUrl="http://gizmodo.com" xmlUrl="http://feeds.gawker.com/gizmodo/full" type="rss" description="Everything Is Technology" text="Gizmodo"/>
+<outline htmlUrl="http://hbr.org" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/" type="rss" description="Practical insights, tools and resources from leading business thought leaders." text="HBR.org"/>
+<outline htmlUrl="http://hbr.org" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness" type="rss" description="Practical insights, tools and resources from leading business thought leaders." text="HBR.org (1)"/>
+<outline htmlUrl="http://www.humanbusinessworks.com" xmlUrl="http://www.humanbusinessworks.com/feed" type="rss" description="Online Courses and Education" text="Human Business Works"/>
+<outline htmlUrl="http://hunterwalk.com" xmlUrl="http://hunterwalk.com/feed/" type="rss" description="99% Humble, 1% Brag" text="Hunter Walk"/>
+<outline htmlUrl="http://www.inc.com/" xmlUrl="http://www.inc.com/rss.xml" type="rss" description="Inc.com, the daily resource for entrepreneurs." text="Inc.com"/>
+<outline htmlUrl="http://www.jonathanfields.com" xmlUrl="http://www.jonathanfields.com/feed/" type="rss" description="Innovation, Creativity, Entrepreneurship, Personal Development" text="Jonathan Fields"/>
+<outline htmlUrl="http://joshkaufman.net" xmlUrl="https://joshkaufman.net/feed/" type="rss" description="The official website of Josh Kaufman - bestselling author of The Personal MBA and First 20 Hours" text="JoshKaufman.net - The Official Webs..."/>
+<outline htmlUrl="https://www.kickstarter.com/blog" xmlUrl="https://www.kickstarter.com/blog.atom" type="rss" description="" text="Kickstarter Blog"/>
+<outline htmlUrl="http://lifehacker.com" xmlUrl="http://feeds.gawker.com/lifehacker/vip" type="rss" description="This is a private feed for friends and partners of Lifehacker, containing full editorial posts. It will not carry advertising but please note that we may occasionally run sponsored posts." text="Lifehacker"/>
+<outline htmlUrl="http://www.marieforleo.com" xmlUrl="http://feeds.feedburner.com/marieforleo/NQhf" type="rss" description="Where Women Entreprenuers Live Rich, Happy, &amp; Hot" text="Marie Forleo"/>
+<outline htmlUrl="http://okdork.com" xmlUrl="http://okdork.com/blog/feed/" type="rss" description="Noah Kagan&apos;s Blog About Marketing and More" text="Noah Kagan&apos;s Okdork.com » Blog"/>
+<outline htmlUrl="http://onstartups.com" xmlUrl="http://feed.onstartups.com/onstartups" type="rss" description="Insights and ideas for software startups" text="OnStartups"/>
+<outline htmlUrl="http://pando.com" xmlUrl="http://pando.com/feed/" type="rss" description="speaking truth to the new power" text="pandodaily.com/feed"/>
+<outline htmlUrl="http://readwrite.com/" xmlUrl="http://readwrite.com/main/feed/articles.xml" type="rss" description="" text="ReadWrite"/>
+<outline htmlUrl="http://readwrite.com/" xmlUrl="http://feeds.feedburner.com/readwriteweb" type="rss" description="" text="ReadWrite (1)"/>
+<outline htmlUrl="http://www.rocketwatcher.com" xmlUrl="http://feeds.feedburner.com/RocketWatcher" type="rss" description="Startup Marketing Blog" text="Rocket Watcher - Startup Marketing"/>
+<outline htmlUrl="http://www.saastr.com" xmlUrl="http://www.saastr.com/feed/" type="rss" description="Getting From $0 to $100m ARR Faster.  With Less Stress.  And More Success." text="saastr.com/feed/"/>
+<outline htmlUrl="http://seedmagazine.com" xmlUrl="http://seedmagazine.com/feeds/RSS/" type="rss" description="SEEDMAGAZINE.COM aims to provide our readers with the most relevant, insightful and entertaining original science content on the web." text="SEEDMAGAZINE.COM"/>
+<outline htmlUrl="http://sethgodin.typepad.com/seths_blog/" xmlUrl="http://feeds.feedblitz.com/sethsblog&amp;x=1" type="rss" description="Seth Godin&apos;s riffs on marketing, respect, and the ways ideas spread." text="Seth Godin&apos;s Blog on marketing, tri..."/>
+<outline htmlUrl="http://www.smarta.com" xmlUrl="http://www.smarta.com/rss" type="rss" description="Small business advice from Smarta" text="Small business advice from Smarta"/>
+<outline htmlUrl="http://www.smashingmagazine.com" xmlUrl="http://rss1.smashingmagazine.com/feed/" type="rss" description="" text="Smashing Magazine Feed"/>
+<outline htmlUrl="http://stackoverflow.com/questions" xmlUrl="http://stackoverflow.com/feeds" type="rss" description="most recent 30 from stackoverflow.com" text="stackoverflow.com/feeds"/>
+<outline htmlUrl="http://www.startupcompanylawyer.com" xmlUrl="http://www.startupcompanylawyer.com/feed/" type="rss" description="Venture capital, seed financings, convertible note bridge debt, M&amp;A, option vesting and other matters explained for founders and entrepreneurs" text="Startup Company Lawyer"/>
+<outline htmlUrl="http://www.startuplawblog.com" xmlUrl="http://www.startuplawblog.com/feed/" type="rss" description="Thoughts and commentary on the law of startups." text="Startup Law Blog"/>
+<outline htmlUrl="http://startuplawyer.com" xmlUrl="http://feeds.feedburner.com/thestartuplawyer" type="rss" description="" text="Startup Lawyer"/>
+<outline htmlUrl="http://startupmeme.com" xmlUrl="http://startupmeme.com/feed/" type="rss" description="" text="Startup Meme"/>
+<outline htmlUrl="http://startup88.com" xmlUrl="http://startup88.com/feed" type="rss" description="Entrepreneurs - Tech - Hardware - Apps" text="Startup88.com/rss"/>
+<outline htmlUrl="" xmlUrl="http://www.startupjournal.com/newsfeed/rss/suj_wsj.xml" type="rss" description="" text="StartupJournal.com"/>
+<outline htmlUrl="http://www.startupnation.com" xmlUrl="http://www.startupnation.com/feed/" type="rss" description="Rock Your Business!" text="StartupNation"/>
+<outline htmlUrl="http://www.reddit.com/r/startups/" xmlUrl="http://www.reddit.com/r/startups/.rss" type="rss" description="&quot;/r/startups&quot; -kevin143" text="Startups (1)"/>
+<outline htmlUrl="http://startupljackson.com/" xmlUrl="http://startupljackson.com/rss" type="rss" description="Startups, tech, internet culture, and funny shit that doesn’t fit into 140 characters." text="Startups and Shit"/>
+<outline htmlUrl="https://sydstart.wordpress.com" xmlUrl="https://sydstart.wordpress.com/feed/" type="rss" description="The Tech Startup Community, Co-working Spaces, Conference &amp; Expo.  Sydney Australia." text="SydStart"/>
+<outline htmlUrl="" xmlUrl="http://techcrunch.com/rssfeeds/" type="rss" description="" text="techcrunch.com/rssfeeds/"/>
+<outline htmlUrl="http://www.techmeme.com/" xmlUrl="http://www.techmeme.com/feed.xml" type="rss" description="Tech Web, page A1" text="Techmeme"/>
+<outline htmlUrl="http://technode.com" xmlUrl="http://technode.com/feed/" type="rss" description="News &amp; Insights on Chinese Startups and Tech Market" text="TechNode"/>
+<outline htmlUrl="http://www.globalsmallbusinessblog.com/" xmlUrl="http://www.globalsmallbusinessblog.com/feeds/posts/default?alt=rss" type="rss" description="The Definitive Blog for Entrepreneurs and Small Businesses &lt;br&gt; Interested in Going Global" text="The Global Small Business Blog"/>
+<outline htmlUrl="http://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/full.xml" type="rss" description="" text="The Verge - All Posts"/>
+<outline htmlUrl="http://www.thefunded.com" xmlUrl="http://feeds.feedburner.com/TheFunded" type="rss" description="The resource for entrepreneurs to research, rate, and review funding sources worldwide." text="TheFunded.com"/>
+<outline htmlUrl="http://www.thisisgoingtobebig.com/" xmlUrl="http://feeds.feedburner.com/thisisgoingtobebig" type="rss" description="" text="Thisisgoingtobebig.com"/>
+<outline htmlUrl="http://ttunguz.github.io" xmlUrl="http://tomtunguz.com/feed.xml" type="rss" description="" text="tomtunguz.com/feed.xml"/>
+<outline htmlUrl="http://under30ceo.com" xmlUrl="http://under30ceo.com/feed/" type="rss" description="" text="under30ceo.com/feed/"/>
+<outline htmlUrl="http://venturehacks.com" xmlUrl="http://feeds.venturehacks.com/venturehacks" type="rss" description="Good advice for startups" text="Venture Hacks"/>
+<outline htmlUrl="http://www.ventureblog.com/" xmlUrl="http://www.ventureblog.com/rss.xml" type="rss" description="" text="VentureBlog"/>
+<outline htmlUrl="http://women2.com" xmlUrl="http://women2.com/feed/" type="rss" description="Innovation Unleashed" text="Women 2.0"/>
+<outline htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" type="rss" description="Scraped feed provided by aaronsw.com" text="www.aaronsw.com/2002/feeds/pgessays.rss"/>
+<outline htmlUrl="" xmlUrl="http://www.addthis.com/feed.php?h1=http%3A%2F%2Ffeeds.feedblitz.com%2FSethsBlog&amp;pub=sethgodin" type="rss" description="" text="www.addthis.com/feed.php?h1=http%3A%2F%2Ffeeds.feedblitz.com%2FSethsBlog&amp;pub=sethgodin"/>
+<outline htmlUrl="" xmlUrl="http://www.addthis.com/feed.php?pub=youngupstart&amp;h1=http%3A%2F%2Fwww.youngupstarts.com%2F%3Ffeed%3Drss2&amp;t1=" type="rss" description="" text="www.addthis.com/feed.php?pub=youngupstart&amp;h1=http%3A%2F%2Fwww.youngupstarts.com%2F%3Ffeed%3Drss2&amp;t1="/>
+<outline htmlUrl="http://www.bizfilings.com/toolkit" xmlUrl="http://www.bizfilings.com/toolkit/NewsRssFeed.aspx" type="rss" description="" text="www.bizfilings.com/toolkit/NewsRssFeed.aspx"/>
+<outline htmlUrl="http://businessweek.com" xmlUrl="http://www.businessweek.com/feeds/most-popular.rss" type="rss" description="
+      
+    " text="www.businessweek.com/feeds/most-popular.rss"/>
+<outline htmlUrl="http://www.chic-ceo.com/blog" xmlUrl="http://www.chic-ceo.com/blog/feed/" type="rss" description="At Chic CEO, we can help you Start a Company, Write a Business Plan, and set you up with CRM and Email Marketing Software that will have the knowledge and support needed right at your polished fingertips.
+        
+ " text="www.chic-ceo.com/blog/feed/"/>
+<outline htmlUrl="http://www.ducttapemarketing.com/blog" xmlUrl="http://www.ducttapemarketing.com/blog/feed/" type="rss" description="Small business marketing blog" text="www.ducttapemarketing.com/blog/feed/"/>
+<outline htmlUrl="" xmlUrl="http://www.economist.com/rss" type="rss" description="" text="www.economist.com/rss"/>
+<outline htmlUrl="http://www.finsmes.com" xmlUrl="http://www.finsmes.com/feed" type="rss" description="" text="www.finsmes.com/feed"/>
+<outline htmlUrl="https://www.freelancersunion.org/blog/" xmlUrl="http://www.freelancersunion.org/blog/feeds/" type="rss" description="The latest entries for the site www.freelancersunion.org" text="www.freelancersunion.org - Latest e..."/>
+<outline htmlUrl="http://www.globalsmallbusinessblog.com/" xmlUrl="http://www.globalsmallbusinessblog.com/feeds/posts/default" type="rss" description="The Definitive Blog for Entrepreneurs and Small Businesses &lt;br&gt; Interested in Going Global" text="www.globalsmallbusinessblog.com/feeds/posts/default"/>
+<outline htmlUrl="http://www.instigatorblog.com" xmlUrl="http://www.instigatorblog.com/feed/" type="rss" description="Lean Analytics, startups, angel investing, product management and more!" text="www.instigatorblog.com/feed/"/>
+<outline htmlUrl="http://www.marco.org/" xmlUrl="http://www.marco.org/rss" type="rss" description="I’m Marco Arment, creator of Instapaper, technology writer, and coffee enthusiast." text="www.marco.org/rss"/>
+<outline htmlUrl="http://www.microsoftbusinesshub.com/News_Updates/rss" xmlUrl="http://www.microsoftbusinesshub.com/News_Updates/rss" type="rss" description="Microsoft SMB Blog" text="www.microsoftbusinesshub.com/News_Updates/rss"/>
+<outline htmlUrl="http://www.smarta.com" xmlUrl="http://www.smarta.com/rss-blog/" type="rss" description="Smarta Blog" text="www.smarta.com/rss-blog/"/>
+<outline htmlUrl="http://ecorner.stanford.edu" xmlUrl="http://web.stanford.edu/group/edcorner/uploads/podcast/EducatorsCorner.xml" type="rss" description="The DFJ Entrepreneurial Thought Leaders Seminar (ETL) is a weekly seminar series on entrepreneurship, co-sponsored by BASES (a student entrepreneurship group), Stanford Technology Ventures Program, and the Department of Management Science and Engineering." text="www.stanford.edu/group/edcorner/uploads/podcast/EducatorsCorner.xml"/>
+<outline htmlUrl="http://www.startupdonut.co.uk/rss.xml" xmlUrl="http://www.startupdonut.co.uk/rss.xml" type="rss" description="" text="www.startupdonut.co.uk/rss.xml"/>
+<outline htmlUrl="http://steveblank.com" xmlUrl="http://steveblank.com/feed/" type="rss" description="Entrepreneurship and Conservation" text="www.steveblank.com/feed"/>
+<outline htmlUrl="http://www.thebossnetwork.org" xmlUrl="http://www.thebossnetwork.org/activity/log/list?fmt=rss" type="rss" description="" text="www.thebossnetwork.org/activity/log/list?fmt=rss"/>
+<outline htmlUrl="http://www.ventureblog.com/" xmlUrl="http://www.ventureblog.com/atom.xml" type="rss" description="" text="www.ventureblog.com/atom.xml"/>
+<outline htmlUrl="http://xkcd.com/" xmlUrl="http://xkcd.com/rss.xml" type="rss" description="xkcd.com: A webcomic of romance and math humor." text="xkcd.com"/>
+<outline htmlUrl="http://www.youngupstarts.com" xmlUrl="http://www.youngupstarts.com/feed/" type="rss" description="All about entrepreneurship, intrapreneurship, ideas, innovation, and small business." text="Young Upstarts"/>
+<outline htmlUrl="http://ysn.com" xmlUrl="http://ysn.com/feed/" type="rss" description="We want you to be extraordinary." text="YSN | Your Success Now"/>
+</outline>
+<outline text="STEM">
+<outline htmlUrl="http://www.eurekalert.org" xmlUrl="http://www.eurekalert.org/rss.xml" type="rss" description="The premier online source for science news since 1996. A service of the American Association for the Advancement of Science." text="EurekAlert! - Breaking News"/>
+<outline htmlUrl="http://www.eurekalert.org" xmlUrl="http://www.eurekalert.org/rss/technology_engineering.xml" type="rss" description="The premier online source for science news since 1996. A service of the American Association for the Advancement of Science." text="EurekAlert! - Technology, Engineering and Computer Science"/>
+<outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/scienceresearch.xml" type="rss" description="Latest news releases for Science from PRWeb" text="Science"/>
+<outline htmlUrl="http://scienceblogs.com" xmlUrl="http://scienceblogs.com/feed/" type="rss" description="As the world turns" text="ScienceBlogs - Where the world turns to talk about science."/>
+<outline htmlUrl="http://sydney.edu.au/news/83.html?newscategoryid=12" xmlUrl="http://sydney.edu.au/news/rss/news12.rss" type="rss" description="The lastest news from the University of Sydney" text="University of Sydney - Student news"/>
+</outline>
+<outline text="Tech">
+<outline htmlUrl="http://avc.com" xmlUrl="http://feeds.feedburner.com/AVc" type="rss" description="Musings of a VC in NYC" text="A VC"/>
+<outline htmlUrl="http://www.austrade.gov.au/view.aspx?FolderID=5587" xmlUrl="http://feeds.feedburner.com/Austrade" type="rss" description="News and Export Success Stories from Austrade" text="Austrade News"/>
+<outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/computers.xml" type="rss" description="Latest news releases for Computer from PRWeb" text="Computer"/>
+<outline htmlUrl="http://www.inc.com/" xmlUrl="http://feeds.inc.com/home/updates" type="rss" description="Inc.com, the daily resource for entrepreneurs." text="Inc.com (1)"/>
+<outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/blogging.xml" type="rss" description="Latest news releases for Media: Blogging &amp; Social Media from PRWeb" text="Media: Blogging &amp; Social Media"/>
+<outline htmlUrl="http://news.stanford.edu" xmlUrl="http://news-service.stanford.edu/rss/index.xml" type="rss" description="
+Latest  news headlines from Stanford University.
+" text="Stanford News Headlines"/>
+<outline htmlUrl="http://techcrunch.com" xmlUrl="http://feeds.feedburner.com/crunchgear" type="rss" description="Startup and Technology News" text="TechCrunch » Gadgets"/>
+<outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/technology.xml" type="rss" description="Latest news releases for Technology from PRWeb" text="Technology"/>
+<outline htmlUrl="http://www.huffingtonpost.com/technology/" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/technology/index.xml" type="rss" description="Technology news and blog articles from The Huffington Post" text="Technology - The Huffington Post"/>
+<outline htmlUrl="http://www.techspot.com" xmlUrl="http://feeds.feedburner.com/techspot/news" type="rss" description="TechSpot RSS" text="TechSpot"/>
+<outline htmlUrl="http://googleblog.blogspot.com/" xmlUrl="http://feeds.feedburner.com/blogspot/MKuf" type="rss" description="Insights from Googlers into our products, technology, and the Google culture." text="The Official Google Blog"/>
+<outline htmlUrl="http://www.wired.com" xmlUrl="http://feeds.wired.com/wired/index" type="rss" description="Top Stories" text="Wired Top Stories"/>
+<outline htmlUrl="http://www.linkedin.com/updates?view=all&amp;trk=rss-mfeed" xmlUrl="https://www.linkedin.com/rss/nus?key=in5CmnoMLeAI22PT4M-o_RKyP65mNk7o25A3VC7ANLaduaf5sPUxGJAQ5OUuviD9j4" type="rss" description="" text="Your LinkedIn Network Updates"/>
+</outline>
+<outline htmlUrl="http://www.ted.com/talks/list" xmlUrl="http://feeds.feedburner.com/TEDTalks_video" type="rss" description="TED is a nonprofit devoted to Ideas Worth Spreading. On this feed, you&apos;ll find TEDTalks video to inspire, intrigue and stir the imagination from some of the world&apos;s leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats." text="TEDTalks (video)"/>
+</body>
+</opml>
