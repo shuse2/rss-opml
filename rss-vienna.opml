@@ -2,7 +2,7 @@
 <opml version="1.0">
 <head>
 <title>Vienna Subscriptions</title>
-<dateCreated>2015-04-08 16:55:40 +0900</dateCreated>
+<dateCreated>2015-04-08 19:24:25 +0900</dateCreated>
 </head>
 <body>
 <outline text="Analytics">
@@ -33,10 +33,20 @@ Computer Weekly provides all the latest news, analysis and opinion of the storie
 <outline text="global.must">
 </outline>
 <outline text="IT-jp">
+<outline htmlUrl="http://blogos.com" xmlUrl="http://blogos.com/feed/article_recent/" type="rss" description="" text="BLOGOS - 最新記事"/>
+<outline htmlUrl="http://japan.cnet.com" xmlUrl="http://feed.japan.cnet.com/rss/index.rdf" type="rss" description="テクノロジー＆ビジネス情報のメディアサイト。ニュースだけでなく、オピニオンリーダーによるコラムやインタビュー、ブログなども掲載" text="CNET Japan 最新情報　総合"/>
+<outline htmlUrl="http://gigazine.net/" xmlUrl="http://feed.rssad.jp/rss/gigazine/rss_2.0" type="rss" description="日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。" text="GIGAZINE"/>
 <outline htmlUrl="http://www.infoq.com/jp/" xmlUrl="http://www.infoq.com/jp/feed?token=cPkhJlcMfGQNecJlb0fyxkONtMuFCjEe" type="rss" description="InfoQ フィード" text="InfoQ"/>
 <outline htmlUrl="http://itpro.nikkeibp.co.jp/" xmlUrl="file:///Users/a13366/Downloads/ITpro.rdf" type="rss" description="日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供" text="ITpro総合"/>
+<outline htmlUrl="http://markezine.jp/" xmlUrl="http://rss.rssad.jp/rss/markezine/new/20/index.xml" type="rss" description="ネットマーケティングとコミュニケーションの最前線を探る実践Webマガジン" text="MarkeZine:新着一覧"/>
 <outline htmlUrl="http://jp.techcrunch.com" xmlUrl="http://jp.techcrunch.com/feed/" type="rss" description="The greatest WordPress.com site in all the land!" text="TechCrunch Japan"/>
+<outline htmlUrl="http://www.techdoll.jp" xmlUrl="http://www.techdoll.jp/feed/" type="rss" description="Technology, I love what you do for me." text="TechDoll.jp"/>
+<outline htmlUrl="http://thestartup.jp" xmlUrl="http://thestartup.jp/?feed=rss2" type="rss" description="テック系オピニオンメディア" text="The Startup"/>
+<outline htmlUrl="http://www.venturenow.jp/" xmlUrl="http://feeds.feedburner.com/venturenow/oTYO" type="rss" description="インターネットベンチャービジネス専門のベンチャーニュース「Venture Now（ベンチャーナウ）」" text="Venture Now（ベンチャーナウ）総合"/>
+<outline htmlUrl="http://www.gizmodo.jp/" xmlUrl="http://feeds.gizmodo.jp/rss/gizmodo/index.xml" type="rss" description="ガジェット情報満載ブログ" text="ギズモード・ジャパン"/>
+<outline htmlUrl="http://www.lifehacker.jp/" xmlUrl="http://feeds.lifehacker.jp/rss/lifehacker/index.xml" type="rss" description="ガジェットなどを駆使し、スマートに楽しむ仕事術「Lifehack」。「ライフハッカー［日本版］」では、その言葉を広義に捉え、生活全般に役立つライフハック情報を日々お届けします。" text="ライフハッカー［日本版］"/>
 <outline htmlUrl="http://www.atmarkit.co.jp/" xmlUrl="http://rss.rssad.jp/rss/itmatmarkit/rss.xml" type="rss" description="＠IT 全フォーラム の最新記事一覧です。" text="＠IT 全フォーラム 最新記事一覧"/>
+<outline htmlUrl="http://smkn.xsrv.jp/blog" xmlUrl="http://feeds.feedburner.com/itkiosk" type="rss" description="Hack / Tips for web creators." text="ＩＴキヲスク"/>
 </outline>
 <outline text="Startups">
 <outline htmlUrl="http://500hats.com" xmlUrl="http://500hats.com/feed" type="rss" description="" text="500hats.com/feed"/>
@@ -136,7 +146,9 @@ By David Skok, a serial entrepreneur turned VC" text="feeds.feedburner.com/foren
 <outline htmlUrl="http://women2.com" xmlUrl="http://women2.com/feed/" type="rss" description="Innovation Unleashed" text="Women 2.0"/>
 <outline htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" type="rss" description="Scraped feed provided by aaronsw.com" text="www.aaronsw.com/2002/feeds/pgessays.rss"/>
 <outline htmlUrl="" xmlUrl="http://www.addthis.com/feed.php?h1=http%3A%2F%2Ffeeds.feedblitz.com%2FSethsBlog&amp;pub=sethgodin" type="rss" description="" text="www.addthis.com/feed.php?h1=http%3A%2F%2Ffeeds.feedblitz.com%2FSethsBlog&amp;pub=sethgodin"/>
+<outline htmlUrl="http://www.addthis.com/feed.php?h1=http://feeds.feedblitz.com/SethsBlog&amp;pub=sethgodin" xmlUrl="http://www.addthis.com/feed.php?h1=http://feeds.feedblitz.com/SethsBlog&amp;pub=sethgodin" type="rss" description="" text="www.addthis.com/feed.php?h1=http%3A%2F%2Ffeeds.feedblitz.com%2FSethsBlog&amp;pub=sethgodin (1)"/>
 <outline htmlUrl="" xmlUrl="http://www.addthis.com/feed.php?pub=youngupstart&amp;h1=http%3A%2F%2Fwww.youngupstarts.com%2F%3Ffeed%3Drss2&amp;t1=" type="rss" description="" text="www.addthis.com/feed.php?pub=youngupstart&amp;h1=http%3A%2F%2Fwww.youngupstarts.com%2F%3Ffeed%3Drss2&amp;t1="/>
+<outline htmlUrl="http://www.addthis.com/feed.php?pub=youngupstart&amp;h1=http://www.youngupstarts.com/?feed=rss2&amp;t1=" xmlUrl="http://www.addthis.com/feed.php?pub=youngupstart&amp;h1=http://www.youngupstarts.com/?feed=rss2&amp;t1=" type="rss" description="" text="www.addthis.com/feed.php?pub=youngupstart&amp;h1=http%3A%2F%2Fwww.youngupstarts.com%2F%3Ffeed%3Drss2&amp;t1= (1)"/>
 <outline htmlUrl="http://www.bizfilings.com/toolkit" xmlUrl="http://www.bizfilings.com/toolkit/NewsRssFeed.aspx" type="rss" description="" text="www.bizfilings.com/toolkit/NewsRssFeed.aspx"/>
 <outline htmlUrl="http://businessweek.com" xmlUrl="http://www.businessweek.com/feeds/most-popular.rss" type="rss" description="
       
@@ -174,6 +186,7 @@ By David Skok, a serial entrepreneur turned VC" text="feeds.feedburner.com/foren
 <outline htmlUrl="http://www.austrade.gov.au/view.aspx?FolderID=5587" xmlUrl="http://feeds.feedburner.com/Austrade" type="rss" description="News and Export Success Stories from Austrade" text="Austrade News"/>
 <outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/computers.xml" type="rss" description="Latest news releases for Computer from PRWeb" text="Computer"/>
 <outline htmlUrl="http://www.inc.com/" xmlUrl="http://feeds.inc.com/home/updates" type="rss" description="Inc.com, the daily resource for entrepreneurs." text="Inc.com (1)"/>
+<outline htmlUrl="http://lifehacker.com" xmlUrl="http://feeds.gawker.com/lifehacker/full#_ga=1.150465968.782814634.1428487810" type="rss" description="Tips and downloads for getting things done" text="Lifehacker (1)"/>
 <outline htmlUrl="http://www.prweb.com/" xmlUrl="http://www.prweb.com/rss2/blogging.xml" type="rss" description="Latest news releases for Media: Blogging &amp; Social Media from PRWeb" text="Media: Blogging &amp; Social Media"/>
 <outline htmlUrl="http://news.stanford.edu" xmlUrl="http://news-service.stanford.edu/rss/index.xml" type="rss" description="
 Latest  news headlines from Stanford University.
